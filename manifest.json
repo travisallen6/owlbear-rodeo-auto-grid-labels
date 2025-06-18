@@ -1,14 +1,12 @@
 {
-  "id": "auto-grid-labels",
   "name": "Auto Grid Labels",
-  "description": "Toggle coordinate labels (A1, B2, etc.) on the grid.",
   "version": "1.0.0",
-  "script": "index.js",
-  "actions": [
-    {
-      "id": "toggle-labels",
-      "name": "Toggle Grid Labels",
-      "icon": "🅰️"
-    }
-  ]
+  "manifest_version": 1,
+  "description": "Toggle coordinate labels (A1, B2, etc.) on the grid.",
+  "author": "Travis Allen",
+  "action": {
+    "title": "Toggle Grid Labels",
+    "icon": "🅰️"
+  },
+  "background_url": "index.js"
 }

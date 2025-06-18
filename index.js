@@ -97,5 +97,6 @@ async function toggleLabels() {
 }
 
 OBR.onReady(() => {
-  OBR.action.onClick("toggle-labels", toggleLabels);
+  // Handle the action click - in the new manifest format, there's only one action
+  OBR.action.onClick(() => toggleLabels());
 });

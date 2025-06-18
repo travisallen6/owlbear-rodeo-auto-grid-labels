@@ -2,6 +2,7 @@
   "id": "auto-grid-labels",
   "name": "Auto Grid Labels",
   "description": "Toggle coordinate labels (A1, B2, etc.) on the grid.",
+  "version": "1.0.0",
   "script": "index.js",
   "actions": [
     {

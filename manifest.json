@@ -1,0 +1,13 @@
+{
+  "id": "auto-grid-labels",
+  "name": "Auto Grid Labels",
+  "description": "Toggle coordinate labels (A1, B2, etc.) on the grid.",
+  "script": "index.js",
+  "actions": [
+    {
+      "id": "toggle-labels",
+      "name": "Toggle Grid Labels",
+      "icon": "🅰️"
+    }
+  ]
+}

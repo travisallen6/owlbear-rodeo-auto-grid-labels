@@ -6,7 +6,7 @@
   "author": "Travis Allen",
   "action": {
     "title": "Toggle Grid Labels",
-    "icon": "🅰️"
+    "icon": "icon.svg"
   },
   "background_url": "index.js"
 }
